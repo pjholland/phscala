@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: info.cukes:cucumber-picocontainer:1.1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/info.cukes/cucumber-picocontainer/jars/cucumber-picocontainer-1.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
